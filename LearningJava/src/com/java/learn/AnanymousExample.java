@@ -12,7 +12,7 @@ public class AnanymousExample {
 
 	public static void main(String[] args) {
 		
-		A obj = new A(){ // Anonymous class
+		A obj = new A(){ // This is an Anonymous class
 			
 			public void show(){
 				System.out.println("Anonymous class here here...");
